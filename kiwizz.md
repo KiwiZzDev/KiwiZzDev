@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KiwiZzDev. A Java developer ! I'm 15 years old.
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me : KiwiZz#2222 on discord !
